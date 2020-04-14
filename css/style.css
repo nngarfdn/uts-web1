@@ -1,0 +1,67 @@
+#navbar{
+	width: 398px;
+	margin-left: 52px;
+	top: 56px; 
+}
+
+
+#navbar p {
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 56px;
+line-height: 76px;
+}
+#body {
+	margin-left: 52px;
+	margin-right: auto; 
+}
+
+#body h2{
+	font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 44px;
+}
+
+#body p{
+	font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 33px;
+}
+
+#body img{
+	border-radius: 8px;
+}
+
+img{
+margin-left: auto;
+margin-right: auto;
+}
+
+#body h3{
+	font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 37px;
+/* identical to box height */
+
+text-align: center;
+}
+
+#body h4{
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+text-align: center;
+}
+
